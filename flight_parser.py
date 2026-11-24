@@ -1,14 +1,9 @@
-"""Flight Schedule Parser and Query Tool - command-line entry point.
-
-Run from the project folder, for example:
-    python flight_parser.py -i data/db.csv -a data/airports.txt
-"""
 import sys
 
 # TODO: fill in your details: plain ASCII, no spaces or underscores.
-STUDENT_ID = "000RDB000"
-FIRST_NAME = "Firstname"
-LAST_NAME = "Lastname"
+STUDENT_ID = "251ADB137"
+FIRST_NAME = "Giyosiddin"
+LAST_NAME = "Kutbiddinov"
 
 
 def main(argv: list[str] | None = None) -> int:
